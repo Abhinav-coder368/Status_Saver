@@ -1,16 +1,16 @@
-![](https://github.com/CodeWithAthari/WhatsApp-Status-Saver-YT/blob/master/gallery/thumbnail.webp)
+
 # Status Saver App
 
-This is a Status Saver app that allows you to save WhatsApp and WhatsApp Business statuses.
+This Status Saver app allows you to save WhatsApp and WhatsApp Business statuses.
 
     
 ## Key Features
 
 Experience a range of powerful features designed to enhance your Status Saver app:
 
-- **WhatsApp Status Saver:** Save your favorite WhatsApp statuses effortlessly.
+- **WhatsApp Status Saver:** Save your favourite WhatsApp statuses effortlessly.
 - **WhatsApp Business Status Saver:** Seamlessly save statuses from WhatsApp Business.
-- **Full Screen Previews:** Enjoy immersive previews for both videos and images.
+- **Full-Screen Previews:** Enjoy immersive previews for both videos and images.
 - **Splash Screen:** Enhance user experience with an engaging splash screen.
 - **Efficient UI Components:**
     - **Recycler View:** Streamline and optimize the display of status items.
@@ -20,16 +20,8 @@ Experience a range of powerful features designed to enhance your Status Saver ap
     - **Bottom Navigation:** Offer easy access to essential app sections.
   - **MVVM Architecture:** Adopt a robust architectural pattern for clean separation of concerns.
   - **Media Store API Integration:** Leverage the Media Store API for efficient media retrieval.
-   - **Folder Permissions Management:** Enable users to easily grant persistable permissions for seamless folder access.
+   - **Folder Permissions Management:** Enable users to grant persistable permissions for seamless folder access easily.
   - **And More:** Explore additional features and functionalities to elevate the user experience.
 
-Discover a comprehensive toolkit that enables efficient status management and an enriched user journey.
-    
-## Usage
 
-1. Clone the repository.
-2. Open the project in Android Studio.
-3. Build and run the app on your device.
-## Screenshots
-#### Light Mode
 
